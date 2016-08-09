@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D3D3D3"
+    android:background="#FCD365"
     tools:context="eldeveloper13.vocabtrainer.review.ReviewActivity">
 
     <TextView
@@ -27,7 +27,7 @@
         android:layout_marginTop="5dp"
         android:layout_marginBottom="5dp"
         android:layout_below="@id/txt_word"
-        android:textSize="20sp"
+        android:textSize="24sp"
         android:visibility="invisible"
         android:padding="10dp"
         tools:visibility="visible"

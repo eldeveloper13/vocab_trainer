@@ -22,7 +22,8 @@
         </activity>
         <activity android:name=".wordList.WordListActivity" />
         <activity android:name=".review.ReviewActivity"
-            android:windowSoftInputMode="adjustResize"/>
+            android:windowSoftInputMode="adjustResize"
+            android:configChanges="orientation|screenSize"/>
     </application>
 
 </manifest>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vocab Trainer</string>
+    <string-array name="word_menu">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
